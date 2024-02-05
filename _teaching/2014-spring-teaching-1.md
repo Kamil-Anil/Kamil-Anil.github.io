@@ -11,11 +11,9 @@ location: "City, Country"
 This is a description of a teaching experience. You can use markdown like any other post.
 
 
-sd
-as
-xd
-x
-c
+<p>I wrote a writing about science and then I finished the job.</p>
+
+
 
 Heading 1
 ======
