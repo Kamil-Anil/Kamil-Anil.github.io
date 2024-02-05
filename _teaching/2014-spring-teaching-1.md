@@ -11,12 +11,7 @@ location: "City, Country"
 This is a description of a teaching experience. You can use markdown like any other post.
 
 
-<p>I wrote a writing about science and then I finished the job.</p>
 
-
-<p>I wrote a writing about science and then I finished the job.
-sd
-</p>
 
 
 
