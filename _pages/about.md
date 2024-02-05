@@ -12,7 +12,7 @@ redirect_from:
 
 Academic Journey
 ======
-I completed my high school education at Trabzon Science High School and then Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University. In my first year at university, I finished English Preparation School.Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetic and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply it I enrolled in mathematics double major program.
+I completed my high school education at Trabzon Science High School and then Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University (METU). In my first year at university, I finished English Preparation School.Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetic and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply it I enrolled in mathematics double major program.
 
 During my undergraduate studies, I engaged in various research projects and technical projects related to my specilizations. I participated in [Advanced Photonics and Photovoltaics](http://app.mnt.metu.edu.tr/) research group. I worked on solar cell technology and performed some simulations. Furthermore, I completed my second internship as researcher at Aalto University in Finland . There, I experienced different culture, and I did research for 3 months. Thus, that wonderful experience improved my ability of working in different work environments, and communication skills. In that research group "[Designer Materials and Devices](https://www.aalto.fi/en/department-of-electronics-and-nanoengineering/designer-materials-and-devices)" I performed measurements in labs for finding permittivity of materials commonly used in 3D printing. For detailed information about my researchs, you can visit "RESEARCH TAB" 
 
@@ -20,19 +20,19 @@ During my undergraduate studies, I engaged in various research projects and tech
 
 Professional Experience 
 ======
-In summer of 2022, I did my first internship at NETAŞ Telecommunication. I experienced office environment and I designed messaging application with GUI by using Apache Kafka Servers.
+In summer of 2022, I did my first internship at NETAŞ Telecommunication in Technocity of METU. I experienced professional office environment at first time and I wrote Python code and I designed messaging application with GUI by using Apache Kafka Servers. Through my internship, I investigated basic communication protocols and server systems. 
 
-In 2023, I completed my second internship through erasmus program. I participated research group at Aalto University in Finland and I worked on permittivity measurements of 3D manufactured materials.
+In 2023, I completed my second internship via erasmus program. I participated research group at Aalto University in Finland for 3 months and I worked on permittivity measurements of 3D manufactured materials. During this internship, I gained experience in research methodology, including field research, measurements, and simulation techniques. First month, I searched articles related to my research and I learned lab environment and measurement set-up. Second month, I performed measurements of different materials for 3D printing to extract S-Parameters of materials in wide-frequency range by using various type wave-guides. Third month, I conducted simulation work by using HFSS to analyze and interpret data obtained from measurements. 
 
 
 Volunteering
 ------
 I am interested in teaching and sharing of positive science and I am trying to attach importance to dissemination of science. For this purpose, I took part in some volunteer activities.
 
-**TEDxMETUAnkara**
+**TEDxMETUAnkara:**
 I was member of ODTU-Arge:TEDxMETUAnkara students community at my own university between 2019 and 2021. As community, we organized "[TEDxMETUAnkara: YAPBOZ](https://www.tedxmetuankara.com/2020-yapboz)" event in 2020. I contributed to preparation of "YAPBOZ" by helping to promote the event in social media team. As a consequence, our event has attached great attention and has been widely appreciated. If you are interested, you can watch "[TEDx Talks](https://www.youtube.com/watch?v=tKHehwCDMp4&list=PLK-RSL-AUXTA9l3MmlhjUukMGBo0DNVKR&index=1)" in our event. 
 
-**Matematiksel**
+**Matematiksel:**
 I am currently one of volunteer writer of "[matematiksel](https://www.matematiksel.org/)" website. This website was founded in 2015 and since that time, members of "matematiksel" has contributed to increase interest in mathematics, popular science and general culture. I became member in 2019 and  voluntarily , I write some writings related to my academic interests, books, hobbies, and basically everything which I find valuable to share. My writings can be seen in [Author:Kamil Anıl Işık](https://www.matematiksel.org/author/k-anil/)
 
 
@@ -47,13 +47,14 @@ For site content, there is one markdown file for each type of content, which are
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+Special Thanks
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+I am aware of that any achievement which I stated above is not just up to me. They are all also belong to my family, friends, and professors. Thus, I want to say "thank you" to all of them.  
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+Reference
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+This website is formed by using template of [academicpages](https://github.com/academicpages/academicpages.github.io)
+
