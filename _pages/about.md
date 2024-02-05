@@ -25,7 +25,9 @@ Professional Experience
 In summer of 2022, I did my first internship at "NETAŞ Telecommunication" company in Technocity of METU. I experienced professional office environment at first time and I wrote Python code and I designed messaging application with GUI by using Apache Kafka Servers. Through my internship, I investigated basic communication protocols and server systems. 
 
 **Designer Materials and Devices:**
-In 2023, I completed my second internship via erasmus program. I participated research group at Aalto University in Finland for 3 months and I worked on permittivity measurements of 3D manufactured materials. During this internship, I gained experience in research methodology, including field research, measurements, and simulation techniques. First month, I searched articles related to my research and I learned lab environment and measurement set-up. Second month, I performed measurements of different materials for 3D printing to extract S-Parameters of materials in wide-frequency range by using various type wave-guides. Third month, I conducted simulation work by using HFSS to analyze and interpret data obtained from measurements. 
+In 2023, I completed my second internship via erasmus program. I participated research group at Aalto University in Finland for 3 months and I worked on permittivity measurements of 3D manufactured materials. During this internship, I gained experience in research methodology, including field research, measurements, and simulation techniques. 
+
+First month, I searched articles related to my research and I learned lab environment and measurement set-up. Second month, I performed measurements of different materials for 3D printing to extract S-Parameters of materials in wide-frequency range by using various type wave-guides. Third month, I conducted simulation work by using HFSS to analyze and interpret data obtained from measurements. 
 
 
 Volunteering
@@ -33,10 +35,14 @@ Volunteering
 I am interested in teaching and sharing of positive science and I am trying to attach importance to dissemination of science. For this purpose, I took part in some volunteer activities.
 
 **TEDxMETUAnkara:**
-I was member of ODTU-Arge:TEDxMETUAnkara students community at my own university between 2019 and 2021. As community, we organized "[TEDxMETUAnkara: YAPBOZ](https://www.tedxmetuankara.com/2020-yapboz)" event in 2020. I contributed to preparation of "YAPBOZ" by helping to promote the event in social media team. As a consequence, our event has attached great attention and has been widely appreciated. If you are interested, you can watch "[TEDx Talks](https://www.youtube.com/watch?v=tKHehwCDMp4&list=PLK-RSL-AUXTA9l3MmlhjUukMGBo0DNVKR&index=1)" in our event. 
+I was member of ODTU-Arge:TEDxMETUAnkara students community at my own university between 2019 and 2021. As community, we organized "[TEDxMETUAnkara: YAPBOZ](https://www.tedxmetuankara.com/2020-yapboz)" event in 2020. I contributed to preparation of "YAPBOZ" by helping to promote the event in social media team. As a consequence, our event has attached great attention and has been widely appreciated. 
+
+If you are interested, you can watch "[TEDx Talks](https://www.youtube.com/watch?v=tKHehwCDMp4&list=PLK-RSL-AUXTA9l3MmlhjUukMGBo0DNVKR&index=1)" in our event. 
 
 **Matematiksel:**
-I am currently one of volunteer writer of "[matematiksel](https://www.matematiksel.org/)" website. This website was founded in 2015 and since that time, members of "matematiksel" has contributed to increase interest in mathematics, popular science and general culture. I became member in 2019 and  voluntarily , I write some writings related to my academic interests, books, hobbies, and basically everything which I find valuable to share. My writings can be seen in [Author:Kamil Anıl Işık](https://www.matematiksel.org/author/k-anil/)
+I am currently one of volunteer writer of "[matematiksel](https://www.matematiksel.org/)" website. This website was founded in 2015 and since that time, members of "matematiksel" has contributed to increase interest in mathematics, popular science and general culture. I became member in 2019 and  voluntarily , I write some writings related to my academic interests, books, hobbies, and basically everything which I find valuable to share. 
+
+My writings can be seen in [Author:Kamil Anıl Işık](https://www.matematiksel.org/author/k-anil/)
 
 
 
