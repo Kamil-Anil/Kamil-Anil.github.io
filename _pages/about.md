@@ -13,8 +13,11 @@ redirect_from:
 Academic Journey
 ======
 I completed my high school education at Trabzon Science High School and then Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University. In my first year at university, I finished English Preparation School.
+
 Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetic and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply I enrolled in mathematics double major program.
+
 During my undergraduate studies, I engaged in various research projects and technical projects related to my specilizations. You can see some in “Research” tab.
+
 Moreover, I am interested in teaching and I am trying to attach importance to dissemination of science. For this purpose, I participated volunteering activities.
 
 Professional Experience 
