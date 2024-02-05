@@ -9,7 +9,7 @@ ReBTEPP
 ======
 (Reflection Based Thickness Estimator Program Package)
 
-In that project, as a team of undergraduate researchers, we aimed preparing a MATLAB software to estimate thickness of material in nanometer scale with high accuracy. For that purpose, we obtained theoretical reflection for various thicknesses from refractive index of material. And we compared it with measured reflection data to find optimum thickness which gives minimum error between theoretical and measured reflection.
+In that project, as a team of undergraduate researchers, we aimed preparing a MATLAB software to estimate thickness of material in nanometer scale with high accuracy. For that purpose, we obtained theoretical reflection for various thicknesses from refractive index of material. And we compared it with measured reflection data to find optimum thickness which gives minimum error between theoretical and measured reflection. Thus, we succeed to estimate thickness of material.
 
 Optimization of Perovskite Solar Cells for Indoor Applications
 ======
