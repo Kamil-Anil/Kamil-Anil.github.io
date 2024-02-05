@@ -12,13 +12,11 @@ redirect_from:
 
 Academic Journey
 ======
-I completed my high school education at Trabzon Science High School and then Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University. In my first year at university, I finished English Preparation School.
+I completed my high school education at Trabzon Science High School and then Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University. In my first year at university, I finished English Preparation School.Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetic and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply it I enrolled in mathematics double major program.
 
-Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetic and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply I enrolled in mathematics double major program.
+During my undergraduate studies, I engaged in various research projects and technical projects related to my specilizations. I participated in [Advanced Photonics and Photovoltaics](http://app.mnt.metu.edu.tr/) research group. I worked on solar cell technology and performed some simulations. Furthermore, I completed my second internship as researcher at Aalto University in Finland . There, I experienced different culture, and I did research for 3 months. Thus, that wonderful experience improved my ability of working in different work environments, and communication skills. In that research group "[Designer Materials and Devices](https://www.aalto.fi/en/department-of-electronics-and-nanoengineering/designer-materials-and-devices)" I performed measurements in labs for finding permittivity of materials commonly used in 3D printing. For detailed information about my researchs, you can visit "RESEARCH TAB" 
 
-During my undergraduate studies, I engaged in various research projects and technical projects related to my specilizations. You can see some in “Research” tab.
 
-Moreover, I am interested in teaching and I am trying to attach importance to dissemination of science. For this purpose, I participated volunteering activities.
 
 Professional Experience 
 ======
@@ -27,9 +25,18 @@ In summer of 2022, I did my first internship at NETAŞ Telecommunication. I expe
 In 2023, I completed my second internship through erasmus program. I participated research group at Aalto University in Finland and I worked on permittivity measurements of 3D manufactured materials.
 
 
-Site-wide configuration
+Volunteering
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am interested in teaching and sharing of positive science and I am trying to attach importance to dissemination of science. For this purpose, I took part in some volunteer activities.
+
+**TEDxMETUAnkara**
+I was member of ODTU-Arge:TEDxMETUAnkara students community at my own university between 2019 and 2021. As community, we organized "[TEDxMETUAnkara: YAPBOZ](https://www.tedxmetuankara.com/2020-yapboz)" event in 2020. I contributed to preparation of "YAPBOZ" by helping to promote the event in social media team. As a consequence, our event has attached great attention and has been widely appreciated. If you are interested, you can watch "[TEDx Talks](https://www.youtube.com/watch?v=tKHehwCDMp4&list=PLK-RSL-AUXTA9l3MmlhjUukMGBo0DNVKR&index=1)" in our event. 
+
+**Matematiksel**
+I am currently one of volunteer writer of "[matematiksel](https://www.matematiksel.org/)" website. This website was founded in 2015 and since that time, members of "matematiksel" has contributed to increase interest in mathematics, popular science and general culture. I became member in 2019 and  voluntarily , I write some writings related to my academic interests, books, hobbies, and basically everything which I find valuable to share. My writings can be seen in [Author:Kamil Anıl Işık](https://www.matematiksel.org/author/k-anil/)
+
+
+
 
 Create content & metadata
 ------
