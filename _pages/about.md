@@ -20,8 +20,11 @@ During my undergraduate studies, I engaged in various research projects and tech
 
 Professional Experience 
 ======
-In summer of 2022, I did my first internship at NETAŞ Telecommunication in Technocity of METU. I experienced professional office environment at first time and I wrote Python code and I designed messaging application with GUI by using Apache Kafka Servers. Through my internship, I investigated basic communication protocols and server systems. 
 
+**NETAŞ Telecommunication:**
+In summer of 2022, I did my first internship at "NETAŞ Telecommunication" company in Technocity of METU. I experienced professional office environment at first time and I wrote Python code and I designed messaging application with GUI by using Apache Kafka Servers. Through my internship, I investigated basic communication protocols and server systems. 
+
+**Designer Materials and Devices:**
 In 2023, I completed my second internship via erasmus program. I participated research group at Aalto University in Finland for 3 months and I worked on permittivity measurements of 3D manufactured materials. During this internship, I gained experience in research methodology, including field research, measurements, and simulation techniques. First month, I searched articles related to my research and I learned lab environment and measurement set-up. Second month, I performed measurements of different materials for 3D printing to extract S-Parameters of materials in wide-frequency range by using various type wave-guides. Third month, I conducted simulation work by using HFSS to analyze and interpret data obtained from measurements. 
 
 
