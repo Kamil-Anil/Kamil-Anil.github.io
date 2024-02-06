@@ -21,6 +21,8 @@ In that project, MATLAB software was prepared to estimate thickness of material 
 
 In this study, an opto-electrical simulation-based optimization was performed to improve the efficiency of PSCs under various indoor illumination spectra. Optimization was performed in terms of perovskite thickness and band-gap. Transfer Matrix Method (TMM) was used to produce carrier generation profile for each different indoor illumination. Finally, generation profile was used as input to SCAPS simulation to get electrical performance of perovskite solar cells.
 
+This project was presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I was first writer and for detailed information our workshop poster could be helpful.
+
 
 **3-Simple Determination of Optical Constants of Organic Blends**
 
