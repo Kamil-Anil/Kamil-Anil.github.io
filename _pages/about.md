@@ -17,7 +17,7 @@ I completed my high school education at Trabzon Science High School and then Hal
 
 During my undergraduate studies, I engaged in various research projects and technical projects related to my specilizations. I participated in [Advanced Photonics and Photovoltaics](http://app.mnt.metu.edu.tr/) research group. I worked on solar cell technology and performed some simulations.Furthermore, I completed my second internship as researcher at Aalto University in Finland . There, I experienced different culture, and I did research for 3 months. Thus, that wonderful experience improved my ability of working in different work environments, and communication skills. In that research group "[Designer Materials and Devices](https://www.aalto.fi/en/department-of-electronics-and-nanoengineering/designer-materials-and-devices)" I performed measurements in labs for finding permittivity of materials commonly used in 3D printing. 
 
-For detailed information about my researchs, you can visit "RESEARCH TAB" 
+For detailed information about my researchs, you can visit [Research tab](https://kamil-anil.github.io/portfolio/)
 
 Currently, I am senior year student at my university. After graduating, I am planning to continue my academic journey with Master program to gain deeper understanding of communication and electromagnetics.
 
