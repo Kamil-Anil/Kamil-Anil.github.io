@@ -12,9 +12,6 @@ redirect_from:
 
 I am a senior Electrical and Electronics Engineering student at Middle East Technical University in Ankara/Turkey. I am enthuastic about mathematics, fields of electromagnetic and communication. I am passionate to participate and do research in related fields.
 
-
-
-
 Academic Journey
 ======
 I completed my high school education at Trabzon Science High School and  Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University (METU). In my first year at university, I finished English Preparation School. Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetics and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply it I enrolled in mathematics double major program.
