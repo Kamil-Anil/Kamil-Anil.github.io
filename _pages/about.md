@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
->I am still learning (Michelangelo, age 87)
+>"*I am still learning (Michelangelo, age 87)*"
 
 
 Academic Journey
