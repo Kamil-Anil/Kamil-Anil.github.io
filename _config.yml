@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! I'm Kamil"
+title                    : "Kamil Anıl IŞIK"
 title_separator          : "-"
-name                     : &name "Kamil Anıl Işık"
+name                     : &name "Hi! I'm Kamil"
 description              : &description "personal description"
 url                      : https://Kamil-Anil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
