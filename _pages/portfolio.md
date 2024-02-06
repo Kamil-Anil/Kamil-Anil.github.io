@@ -5,11 +5,18 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+Designer Materials and Devices 
+======
+The Designer Materials and Devices group is housed within Aalto University's Department of Electronics and Nanoengineering. Core topics for this research group are metametarials and metasurfaces.
+I participated in this group as research intern during summer of 2023 and I worked on permittivity measurements of 3D printing materials.
+
+**Permittivity Measurements of 3D Printing Materials**
+
 
 Advanced Photonics and Photovoltaics(APP)
 ======
 
-APP research group is conducted by a professor at METU. This group mosly focuses on researchs about solar cell technologies. I become member of APP as undergraduate researcher in 2022. And through years, I took part in many projects which are stated below:    
+APP research group is conducted by a professor at METU. This group mostly focuses on researchs about solar cell technologies. I become member of APP as undergraduate researcher in 2022. And through years, I took part in many projects which are stated below:    
 
 
 **1-ReBTEPP**
@@ -32,7 +39,8 @@ In the Organic Solar Cells (OSC), the blend of a donor and an acceptor material 
 
 In this study, a method was introduced for calculation of optical constants of the blends made out of any concentration ratio of donor and acceptor organic materials. This process removes the need for ellipsometry and sample fabrication steps for different blend ratios. The method is based on the the principle of mixtures, in which optical constants of individual materials are scaled according to compositions.
 
-This project was also presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I was "third writer". Again, if you interest more you can check out our poster (https://kamil-anil.github.io/files/Poster_draft_OrganicBlends_v1.pdf) 
+This project was also presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I was "third writer". Again, if you interest more you can check out our [poster](https://kamil-anil.github.io/files/Poster_OrganicBlends_v1.pdf)
+
 
 
 **4-Simulation Analysis of Perovskite Performance in Space**
