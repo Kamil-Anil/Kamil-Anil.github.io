@@ -5,8 +5,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+>An expert is a man who has made all the mistakes, which can be made, in a very narrow field (Niels Bohr)
+
 Designer Materials and Devices 
 ======
+
 The Designer Materials and Devices group is housed within Aalto University's Department of Electronics and Nanoengineering. Core topics for this research group are metametarials and metasurfaces.
 I participated in this group as research intern during summer of 2023 and I worked on permittivity measurements of 3D printing materials.
 
@@ -41,7 +44,7 @@ Recently, perovskites have also been gaining more interest for indoor applicatio
 
 In this study, an opto-electrical simulation-based optimization was performed to improve the efficiency of PSCs under various indoor illumination spectra. Optimization was performed in terms of perovskite thickness and band-gap. Transfer Matrix Method (TMM) was used to produce carrier generation profile for each different indoor illumination. Finally, generation profile was used as input to SCAPS simulation to get electrical performance of perovskite solar cells.
 
-This project was presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I made a contribution to this research as a "first writer". For detailed information about this study and its results, our [workshop poster](https://kamil-anil.github.io/files/Indoor_Perovskite.pdf) could be helpful.
+This project was presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I made a contribution to this research as a *first writer*. For detailed information about this study and its results, our [workshop poster](https://kamil-anil.github.io/files/Indoor_Perovskite.pdf) could be helpful.
 
 
 **3-Simple Determination of Optical Constants of Organic Blends**
@@ -50,7 +53,7 @@ In the Organic Solar Cells (OSC), the blend of a donor and an acceptor material 
 
 In this study, a method was introduced for calculation of optical constants of the blends made out of any concentration ratio of donor and acceptor organic materials. This process removes the need for ellipsometry and sample fabrication steps for different blend ratios. The method is based on the the principle of mixtures, in which optical constants of individual materials are scaled according to compositions.
 
-This project was also presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I was "third writer". Again, if you interest more you can check out our [poster](https://kamil-anil.github.io/files/Poster_OrganicBlends_v1.pdf)
+This project was also presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I was *third writer*. Again, if you interest more you can check out our [poster](https://kamil-anil.github.io/files/Poster_OrganicBlends_v1.pdf)
 
 
 
@@ -60,4 +63,5 @@ Perovskite solar cells, one of the leading contenders in the field of photovolta
 
 To do that, I completed SCAPS simulations for different perovskite materials under AM0 spectrum by following methodology showing below:   
 ![perovskitespppace](https://github.com/Kamil-Anil/Kamil-Anil.github.io/assets/158865943/495d1382-e312-4605-bbdb-8ac34aaf18c4)
+
 
