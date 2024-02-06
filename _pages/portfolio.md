@@ -46,8 +46,14 @@ In this study, an opto-electrical simulation-based optimization was performed to
 
 This project was presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I made a contribution to this research as a *first writer*. For detailed information about this study and its results, our [workshop poster](https://kamil-anil.github.io/files/Indoor_Perovskite.pdf) could be helpful.
 
+**3-Simulation Analysis of Perovskite Performance in Space**
 
-**3-Simple Determination of Optical Constants of Organic Blends**
+Perovskite solar cells, one of the leading contenders in the field of photovoltaic technology , have become attractive options because of their remarkable efficiency and potential. However, there is still much to learn about their dependability and performance in the hostile environment of space. This study aimed to bridge this gap by investigating the performance of perovskite solar cells in space environments.
+
+To do that, I completed SCAPS simulations for different perovskite materials under AM0 spectrum by following methodology showing below:   
+![perovskitespppace](https://github.com/Kamil-Anil/Kamil-Anil.github.io/assets/158865943/495d1382-e312-4605-bbdb-8ac34aaf18c4)
+
+**4-Simple Determination of Optical Constants of Organic Blends**
 
 In the Organic Solar Cells (OSC), the blend of a donor and an acceptor material is used in the active layer of OSC. Thus, for analysis of OSCs, the determination of optical constants of organic blends is necessary. This determination by sample fabrication and ellipsometry processes is money and time consuming
 
@@ -56,12 +62,5 @@ In this study, a method was introduced for calculation of optical constants of t
 This project was also presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I was *third writer*. Again, if you interest more you can check out our [poster](https://kamil-anil.github.io/files/Poster_OrganicBlends_v1.pdf)
 
 
-
-**4-Simulation Analysis of Perovskite Performance in Space**
-
-Perovskite solar cells, one of the leading contenders in the field of photovoltaic technology , have become attractive options because of their remarkable efficiency and potential. However, there is still much to learn about their dependability and performance in the hostile environment of space. This study aimed to bridge this gap by investigating the performance of perovskite solar cells in space environments.
-
-To do that, I completed SCAPS simulations for different perovskite materials under AM0 spectrum by following methodology showing below:   
-![perovskitespppace](https://github.com/Kamil-Anil/Kamil-Anil.github.io/assets/158865943/495d1382-e312-4605-bbdb-8ac34aaf18c4)
 
 
