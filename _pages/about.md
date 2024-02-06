@@ -43,7 +43,7 @@ Volunteering
 I am interested in teaching and sharing of positive science and I am trying to attach importance to dissemination of science. For this purpose, I took part in some volunteer activities.
 
 **TEDxMETUAnkara:**
-I was member of ODTU-Arge:TEDxMETUAnkara students community at my own university between 2019 and 2021. As community, we organized "[TEDxMETUAnkara: YAPBOZ](https://www.tedxmetuankara.com/2020-yapboz)" event in 2020. I contributed to preparation of "YAPBOZ" by helping to promote the event in social media team. As a consequence, our event has attached great attention and has been widely appreciated. 
+I was member of ODTU-Arge: TEDxMETUAnkara students community at my own university between 2019 and 2021. As community, we organized "[TEDxMETUAnkara: YAPBOZ](https://www.tedxmetuankara.com/2020-yapboz)" event in 2020. I contributed to preparation of "YAPBOZ" by helping to promote the event in social media team. As a consequence, our event has attached great attention and has been widely appreciated. 
 
 If you are interested, you can watch "[TEDx Talks](https://www.youtube.com/watch?v=tKHehwCDMp4&list=PLK-RSL-AUXTA9l3MmlhjUukMGBo0DNVKR&index=1)" in our event. 
 
