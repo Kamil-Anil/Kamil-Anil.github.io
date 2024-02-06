@@ -5,4 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-ADANA
+>"*we accept the reality of the world with which we're presented.*" (Truman Show)
+
+Movies
+======
+
+
+Books
+======
