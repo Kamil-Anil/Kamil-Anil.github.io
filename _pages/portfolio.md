@@ -13,11 +13,16 @@ I participated in this group as research intern during summer of 2023 and I work
 **Permittivity Measurements of 3D Printing Materials**
 
 
-As a research intern at Aalto University, I experienced closely the research methodology of a scientist and I found a chance to apply this methodology myself. During first month of my internship, I made field research to find previous studies related to my project. I improved my theoretical background and at the same time,  I got used to researcher's environment and I received laboratory training and I prepared my set-up for measurements. 
+As a research intern at Aalto University, I experienced closely the research methodology of a scientist and I found a chance to apply this methodology myself. During first month of my internship, I made field research to find previous studies related to my project. I improved my theoretical background and at the same time,  I got used to researcher's environment and I received laboratory training and I prepared my set-up for measurements which can be seen in below:
 
 
 ![setup](https://github.com/Kamil-Anil/Kamil-Anil.github.io/assets/158865943/8e4a3b5b-36cb-4c47-81bc-b66a020f45ac)
 
+
+
+In my second month, I designed materials in proper shape for my set-up by using Siemens NX and I printed them. And in lab, I started measurements to find S-Parameters of materials for GHz frequency range. During that period, I failed many times until achieving succesful results. In my third month, I extracted permittivity by using HFSS simulation. 
+
+Altough 3 month was not enough to obtain meaningful and trustable results, it was priceless for me to understand how to do scientific research.
 
 Advanced Photonics and Photovoltaics(APP)
 ======
