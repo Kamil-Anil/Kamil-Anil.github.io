@@ -14,6 +14,8 @@ I participated in this group as research intern during summer of 2023 and I work
 
 
 As a research intern at Aalto University, I experienced closely the research methodology of a scientist and I found a chance to apply this methodology myself. During first month of my internship, I made field research to find previous studies related to my project. I improved my theoretical background and at the same time,  I got used to researcher's environment and I received laboratory training and I prepared my set-up for measurements. 
+
+
 ![setup](https://github.com/Kamil-Anil/Kamil-Anil.github.io/assets/158865943/8e4a3b5b-36cb-4c47-81bc-b66a020f45ac)
 
 
