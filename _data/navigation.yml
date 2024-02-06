@@ -12,8 +12,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "[CV](https://kamil-anil.github.io/files/resume.pdf)"
-    url: /cv/
+  - title: "CV"
+    url: /files/resume.pdf
     
   - title: "Guide"
     url: /markdown/
