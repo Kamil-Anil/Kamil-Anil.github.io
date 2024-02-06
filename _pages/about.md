@@ -10,6 +10,7 @@ redirect_from:
 
 >I am still learning (Michelangelo, age 87)
 
+
 Academic Journey
 ======
 I completed my high school education at Trabzon Science High School and then Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University (METU). In my first year at university, I finished English Preparation School. Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetics and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply it I enrolled in mathematics double major program.
@@ -17,6 +18,7 @@ I completed my high school education at Trabzon Science High School and then Hal
 During my undergraduate studies, I engaged in various research projects and technical projects related to my specilizations. I participated in [Advanced Photonics and Photovoltaics](http://app.mnt.metu.edu.tr/) research group. I worked on solar cell technology and performed some simulations. Furthermore, I completed my second internship as researcher at Aalto University in Finland . There, I experienced different culture, and I did research for 3 months. Thus, that wonderful experience improved my ability of working in different work environments, and communication skills. In that research group "[Designer Materials and Devices](https://www.aalto.fi/en/department-of-electronics-and-nanoengineering/designer-materials-and-devices)" I performed measurements in labs for finding permittivity of materials commonly used in 3D printing. For detailed information about my researchs, you can visit "RESEARCH TAB" 
 
 Currently, I am senior year student at my university. After graduating, I am planning to continue my academic journey with Master program to gain deeper understanding of communication and electromagnetics.
+
 
 
 
@@ -30,6 +32,7 @@ In summer of 2022, I did my first internship at "NETAŞ Telecommunication" compa
 In 2023, I completed my second internship via erasmus program. I participated research group at Aalto University in Finland for 3 months and I worked on permittivity measurements of 3D manufactured materials. During this internship, I gained experience in research methodology, including field research, measurements, and simulation techniques. 
 
 First month, I searched articles related to my research and I learned lab environment and measurement set-up. Second month, I performed measurements of different materials for 3D printing to extract S-Parameters of materials in wide-frequency range by using various type wave-guides. Third month, I conducted simulation work by using HFSS to analyze and interpret data obtained from measurements. 
+
 
 
 Volunteering
@@ -49,8 +52,7 @@ My writings can be seen in [Author:Kamil Anıl Işık](https://www.matematiksel.
 
 
 
-Create content & metadata
-------
+
 
 
 Special Thanks
