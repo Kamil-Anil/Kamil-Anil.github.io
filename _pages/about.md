@@ -10,6 +10,10 @@ redirect_from:
 
 >"*I am still learning.*" (Michelangelo, age 87)
 
+I am a senior Electrical and Electronics Engineering student at Middle East Technical University in Ankara/Turkey. I am enthuastic about mathematics, fields of electromagnetic and communication. I am passionate to participate and do research in related fields.
+
+
+
 
 Academic Journey
 ======
