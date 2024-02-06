@@ -42,7 +42,7 @@ In that project, MATLAB software was prepared to estimate thickness of material 
 
 Recently, perovskites have also been gaining more interest for indoor applications due to better alignment of their absorption spectrum with indoor illumination
 
-In this study, an opto-electrical simulation-based optimization was performed to improve the efficiency of PSCs under various indoor illumination spectra. Optimization was performed in terms of perovskite thickness and band-gap. Transfer Matrix Method (TMM) was used to produce carrier generation profile for each different indoor illumination. Finally, generation profile was used as input to SCAPS simulation to get electrical performance of perovskite solar cells.
+In this study, an opto-electrical simulation-based optimization was performed to improve the efficiency of perovskite solar cells under various indoor illumination spectra. Optimization was performed in terms of perovskite thickness and band-gap. Transfer Matrix Method (TMM) was used to produce carrier generation profile for each different indoor illumination. Finally, generation profile was used as input to SCAPS simulation to get electrical performance of perovskite solar cells.
 
 This project was presented in 21st National Optics, Electro-Optics and Photonics Workshop at KOÇ University in 2023. I made a contribution to this research as a *first writer*. For detailed information about this study and its results, our [workshop poster](https://kamil-anil.github.io/files/Indoor_Perovskite.pdf) could be helpful.
 
