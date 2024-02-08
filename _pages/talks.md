@@ -7,7 +7,9 @@ author_profile: true
 
 >"*we accept the reality of the world with which we're presented.*" (Truman Show)
 
-Here, to make this website more personal:) I want to share some movies, books and everything else which I am impressed and I would like to talk about with my personal comments. Of course, since personal tastes changes with new experiences, I am planning make updates from time to time. And I'm always open for any suggestions, idea or valuable comments. For that you can contact me via my mail: ***kamilanil15@gmail.com*** 
+Here, to make this website more personal:) I want to share some movies, books and everything else which I am impressed and I would like to talk about with my personal comments. Of course, since personal tastes changes with new experiences, I am planning make updates from time to time. And I'm always open for any suggestions, idea or valuable comments. 
+
+For that, you can contact me via my mail: ***kamilanil15@gmail.com*** 
 
 Movies
 ======
