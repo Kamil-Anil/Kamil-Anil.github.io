@@ -3,9 +3,6 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
-  - title: "Hobbies"
-    url: /talks/    
-
 #  - title: "Teaching"
 #    url: /teaching/    
     
@@ -17,6 +14,10 @@ main:
     
   - title: "CV"
     url: /files/curriculum_vitae.pdf
+
+  - title: "Hobbies"
+    url: /talks/    
+
     
 #  - title: "Guide"
 #    url: /markdown/
