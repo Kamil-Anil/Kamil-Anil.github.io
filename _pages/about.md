@@ -12,7 +12,7 @@ redirect_from:
 
 I am a senior year (4th grade) Electrical and Electronics Engineering student at Middle East Technical University in Ankara/Turkey. I'm enthuastic about mathematics, fields of electromagnetic and communication. I am passionate to participate and do research in related fields.
 
-Below you can find my academic journey, professional & volunteer experience, also you can reach my research experience from [Research tab](https://kamil-anil.github.io/portfolio/), CV from [CV tab] and my personal interest-hobbies from [Hobbies tab](https://kamil-anil.github.io/talks/)
+Below you can find my academic journey, professional & volunteer experience, also you can reach my research experience from [Research tab](https://kamil-anil.github.io/portfolio/), CV from [CV tab](https://kamil-anil.github.io/files/curriculum_vitae.pdf) and my personal interest-hobbies from [Hobbies tab](https://kamil-anil.github.io/talks/)
 
 Academic Journey
 ======
