@@ -34,7 +34,9 @@ If anyone is interested, I recommend to watch movie without looking subject and 
  
 **Empire Strikes Back**
 
-Star Wars is massive fictional universe including some quite well stories and some quite worst stories. I think over the years it lost its spirit and new movies become just bad copies of old ones. So, if I looked history of that universe and choose one movie to remember, I would use my chance for Empire Strikes Back, second movie of original trilogy. While original trilogy itself was grounbreaking for sci-fi genre, among original movies Empire Strikes Back stands alone at the top. Its one of the best (for me, best one) sequal movie of all time. It carries story to another level and it presents most remarkable villan of all time with simple but impressive charachter relationships.
+Star Wars is massive fictional universe including some quite well stories and some quite worst stories. I think over the years it lost its spirit and new movies become just bad copies of old ones. So, if I looked history of that universe and choose one movie to remember, I would use my chance for Empire Strikes Back, second movie of original trilogy. While original trilogy itself was grounbreaking for sci-fi genre, among original movies Empire Strikes Back stands alone at the top. Its one of the best (for me, best one) sequal movie of all time. It carries story to another level and it presents most remarkable villan of all time with simple but impressive character relationships.
+
+Here another thing I want to mention is John Williams legend himself. He is composer of Empire Strikes Back.To me, his works in [Star Wars](https://youtu.be/54hoKbTWon4?list=TLPQMDgwMjIwMjTo4aElJ9mEBg) and so in Empire Strikes Back unforgettable.  
 
 
 
