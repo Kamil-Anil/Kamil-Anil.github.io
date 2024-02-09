@@ -14,7 +14,7 @@ I am a senior year (4th grade) Electrical and Electronics Engineering student at
 
 Below you can find my academic journey, professional & volunteer experience, also you can reach my research experience from [Research tab](https://kamil-anil.github.io/portfolio/), my resume from [CV tab](https://kamil-anil.github.io/files/curriculum_vitae.pdf) and my personal interest-hobbies from [Hobbies tab](https://kamil-anil.github.io/talks/)
 
-Academic Journey
+Academic Background
 ======
 I completed my high school education at Trabzon Science High School and  Halil Kale Science High School. After high school, I chose to pursue my education in Departments of Electrical & Electronics Engineering at Middle East Technical University (METU). In my first year at university, I finished English Preparation School. Upon learning academic english, I started to my undergraduate studies. I developed interest and enthusiasm about fields of electromagnetics and communication theory. Moreover, I am fascinated by mathematics and to learn more deeply it I enrolled in mathematics double major program.
 
@@ -40,7 +40,7 @@ First month, I searched articles related to my research and I learned lab enviro
 
 
 
-Volunteering
+Volunteer Activities
 ------
 I am interested in teaching and sharing of positive science and I am trying to attach importance to dissemination of science. For this purpose, I took part in some volunteer activities.
 
