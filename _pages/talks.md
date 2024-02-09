@@ -22,6 +22,15 @@ One of my favorite animated movies of all time! Over the years I have watched co
 
 
 
+
+
+
+
+
+
+
+
+
 Just briefly, I think this animation is a product come out from creative, innovator and passionate minds. Nowadays, unfortunately I can not see such animations so much thats another why Wall-E is unique and will remain so.
                 
 
