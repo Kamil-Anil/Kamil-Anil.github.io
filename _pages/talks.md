@@ -46,7 +46,7 @@ Altough pace of movie is slow, it is not boring because what you see (cinematogr
 
 **Truman Show**
 
-I dont know what I can say about Truman Show without giving spoilers. But I want to mention it since script of Truman Show might be best I've seen. Unparallel, bizarre and paranoid. I remember that while watching Truman Show first time. I shocked so many times and asked such questions: Why, what happened, who are they?. Reason isn't that movie is not understandable and complex, I asked because I am fascinated by world which movie created. Then I watched it over and over again and everytime I could find new perspectives, details. Thats why probably Truman Show is a movie I've watched most. And last thing I want to say is that Truman Show's ending is just remarkable and excellent. 
+Unparallel, bizarre and paranoid! I dont know what I can say about Truman Show without giving spoilers. But I want to mention it since script of Truman Show might be best I've seen. I remember that while watching Truman Show first time. I shocked so many times and asked such questions: why, what happened, who are they? Reason isn't that movie is not understandable and complex, I asked because I am fascinated by world which movie created. Then I watched it over and over again and everytime I could find new perspectives, details. Thats why probably Truman Show is a movie I've watched most. And last thing I want to say is that Truman Show's ending is just remarkable and excellent. 
 
 ![image](https://github.com/Kamil-Anil/Kamil-Anil.github.io/assets/158865943/99f8a076-686b-4939-be1f-5cdc70ce59e5)
 
