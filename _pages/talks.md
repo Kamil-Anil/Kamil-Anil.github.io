@@ -59,7 +59,7 @@ Star Wars is massive fictional universe including some quite well stories and so
 ![image](https://github.com/Kamil-Anil/Kamil-Anil.github.io/assets/158865943/e4e993c5-830b-4c8f-b96c-0a32d203adbd)
 
 
-Here another thing I want to mention is John Williams legend himself. He is composer of Empire Strikes Back, most of other Star Wars movies, Jaws, Schindler's List, Indiana Jones, Jurassic Park .To me, his works ([Star Wars Theme](https://youtu.be/54hoKbTWon4?list=TLPQMDgwMjIwMjTo4aElJ9mEBg)) is another feature makes Empire Strikes Back unforgettable.
+Here another thing I want to mention is John Williams legend himself. He is composer of Empire Strikes Back, most of other Star Wars movies, Jaws, Schindler's List, Indiana Jones, Jurassic Park ... To me, his works ([Star Wars Theme](https://youtu.be/54hoKbTWon4?list=TLPQMDgwMjIwMjTo4aElJ9mEBg)) is another feature makes Empire Strikes Back unforgettable and phonomeonal.
 
 
 
