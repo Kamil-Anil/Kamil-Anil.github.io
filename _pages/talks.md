@@ -22,7 +22,7 @@ Just briefly, I think this animation is a product come out from creative, innova
                 
 **Arrival**
 
-While saying sci-fi movies, most of people thinks of movies such as Interstellar,2001 Space Odyssey, Star Wars. Altough they are also pretty good movies, I think *Arrival* is not well-known and a bit underrated movie. Actually I am not sure also Arrival is completely belong to sci-fi genre. For me, its cover is seems quite sci-fi but it is about importance of communication and how communication affects our understanding of surroundings and time. This is actually what differs Arrival from its counterparts: It uses sci-fi objects like aliens, spaceships as a tool to tell a tragedy of a charachter,mother.  
+While saying sci-fi movies, most of people thinks of movies such as Interstellar,2001 Space Odyssey, Star Wars. Altough they are also pretty good movies, I think *Arrival* is not well-known and a bit underrated movie. Actually I am not sure also Arrival is completely belong to sci-fi genre. For me, its cover is seems quite sci-fi but it is about importance of communication and how communication affects our understanding of surroundings and time. This is actually what differs Arrival from its counterparts: It uses sci-fi objects like aliens, spaceships as a tool to tell a tragedy of a charachter, mother.  
 
 Altough pace of movie is slow, it is not boring because what you see (cinematography) or hear (especially, sound design!) in movie is amazing. Movie uses sounds to support scenes cleverly and masterfully. Here is my favorite [soundtrack](https://www.youtube.com/watch?v=InyT9Gyoz_o). Another what I like also about Arrival is finally but really finally aliens do not come to earth to conququer or to fight people.   
 
