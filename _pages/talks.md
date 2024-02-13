@@ -38,5 +38,10 @@ Star Wars is massive fictional universe including some quite well stories and so
 
 Here another thing I want to mention is John Williams legend himself. He is composer of Empire Strikes Back, most of other Star Wars movies, Jaws, Schindler's List, Indiana Jones, Jurassic Park ... To me, his works ([Star Wars Theme](https://youtu.be/54hoKbTWon4?list=TLPQMDgwMjIwMjTo4aElJ9mEBg)) is another feature makes Empire Strikes Back unforgettable and phonomeonal.
 
+**The Art Of Racing In The Rain**
+
+**The Art Of Racing In The Rain* is an adaptation from book of the same name. Its a story about human's life but from the perspective of a sweet pure hearted observer, a dog named Enzo. Throughout the movie, narrator is Enzo and he observes and tries to understand human's behaviours, relationships, passionates, and emotional breakdowns. And since Enzo is ambitious for racing, he tells the story by making an analogy with the art of racing. Like unexpected element, "the Rain" in racing, people sometimes encounter unexpected persons, events, moments. And when they face these moments, their motivation to keep moving with self-control and discipline determines their paths. Its nothing but an art of racing in the rain.  
+
+"The best drivers focus only on the present. Never dwelling on the past, never committing to the future." This quote is from the movie. It has lots of it like this one. As last words, I can say that movie is inspring, and sweet because it has a dog!  
 
 
